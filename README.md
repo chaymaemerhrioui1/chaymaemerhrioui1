@@ -1,5 +1,7 @@
 ## 💫 About Me:
-im student in 5th year of Data Engineering at ENSAH
+A passionate Data and Software Engineering Student at ENSAH
+
+📫 How to reach me merhriouichaymae@gmail.com
 
 
 ### 🌐 Socials:
