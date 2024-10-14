@@ -1,3 +1,6 @@
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=%20%20%20%20%20Welcome+to+My+Github!+%F0%9F%92%AB;%20%20%20%20%20I'm+Chaymae+Merhrioui!+%F0%9F%92%96;&color=CD7DF8&background=FFFFFF00" style="max-width: 100%;">
+
+
 ## 💫 About Me:
 A passionate Data and Software Engineering Student at ENSAH
 
