@@ -4,7 +4,7 @@
 ## 💫 About Me:
 A passionate Data and Software Engineering Student at ENSAH
 
-🌱 I’m currently learning Cloud Camputing     
+🌱 I’m currently learning Generative IA & LLMs     
 📫 How to reach me merhriouichaymae@gmail.com
 
 
