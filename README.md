@@ -4,7 +4,7 @@
 ## 💫 About Me:
 A passionate Data and Software Engineering Student at ENSAH
 
-🌱 I’m currently learning Generative IA , LLMs & Agents     
+🌱 I’m currently learning Generative AI Agents , RAG & GRAPH-RAG    
 📫 How to reach me merhriouichaymae@gmail.com
 
 
